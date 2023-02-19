@@ -30,7 +30,11 @@ pub fn main() void {
     // (Problem 2)
     // Please set this array using repetition.
     // It should result in: 1 0 0 1 1 0 0 1 1 0 0 1
+<<<<<<< HEAD
     const bit_pattern = [_]u8{ 1, 0, 0, 1 } ** 3;
+=======
+    const bit_pattern = [_]u8{ 1,0,0,1 } ** 3;
+>>>>>>> 77416d8 (ziglings 05)
 
     // Okay, that's all of the problems. Let's see the results.
     //
